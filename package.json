@@ -4,6 +4,7 @@
   "license": "ISC",
   "private": true,
   "dependencies": {
-    "node-red": "^0.19.5"
+    "node-red": "^0.19.5",
+    "lokijs": "^1.5.5"
   }
 }
