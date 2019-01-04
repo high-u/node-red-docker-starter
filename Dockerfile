@@ -1,6 +1,6 @@
 FROM node:8-slim
 RUN apt-get update
-RUN apt-get install -y git vim
+RUN apt-get install -y git
 RUN mkdir -p /node-red/data
 WORKDIR /node-red
 COPY package.json /node-red/package.json
