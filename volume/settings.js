@@ -211,8 +211,6 @@ module.exports = {
         // os:require('os'),
         // jfive:require("johnny-five"),
         // j5board:require("johnny-five").Board({repl:false})
-        datefns:require("date-fns"),
-        icepick:require("icepick")
     },
 
     // Context Storage
